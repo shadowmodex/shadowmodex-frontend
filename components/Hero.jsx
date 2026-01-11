@@ -5,7 +5,7 @@ export default function Hero() {
 
       <div className="home-hero-content">
         <img
-          src="/images/logo.png"
+          src="/public/images/logo.png"
           alt="ShadowmodeX"
           className="home-logo"
         />

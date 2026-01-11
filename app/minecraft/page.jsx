@@ -20,7 +20,7 @@ export default function Minecraft() {
         </div>
 
         <div className="coming-grid">
-          <img src="/images/minecraft/minecraft1.jpg" />
+          <img src="/public/images/minecraft/minecraft1.jpg" />
         </div>
       </section>
     </>

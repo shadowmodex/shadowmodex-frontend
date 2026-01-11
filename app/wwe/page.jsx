@@ -20,7 +20,7 @@ export default function WWE() {
         </div>
 
         <div className="coming-grid">
-          <img src="/images/wwe/wwe1.jpg" />
+          <img src="/public/images/wwe/wwe1.jpg" />
         </div>
       </section>
     </>

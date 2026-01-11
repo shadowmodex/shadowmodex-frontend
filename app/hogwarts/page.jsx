@@ -20,7 +20,7 @@ export default function Hogwarts() {
         </div>
 
         <div className="coming-grid">
-          <img src="/images/hogwarts/hw1.jpg" />
+          <img src="images/hogwarts/hw1.jpg" />
         </div>
       </section>
     </>

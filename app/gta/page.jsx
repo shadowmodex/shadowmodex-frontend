@@ -38,7 +38,8 @@ export default function GTA() {
 
         <div className="image-grid-neon">
           {[1,2,3,4,5].map(i => (
-            <img key={i} src={`/images/gta/gta1.jpg`} />
+            <img key={i} src="/images/gta/gta1.jpg" />
+
           ))}
         </div>
 
